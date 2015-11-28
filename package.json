@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-calendar",
+  "name": "itkin-bootstrap-calendar",
   "version": "0.2.4",
-  "description": "Bootstrap full view calendar",
+  "description": "Bootstrap full view calendar - forked from https://github.com/Serhioromano",
   "main": [
     "./js/calendar.js"
   ],
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Serhioromano/bootstrap-calendar.git"
+    "url": "git@github.com:itkin/bootstrap-calendar.git"
   },
   "keywords": [
     "calendar"
